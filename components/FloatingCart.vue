@@ -3,7 +3,7 @@
     <div
       v-if="shouldShowFloatingCard"
       class="fixed top-40 right-20 max-w-xs w-full bg-white border border-gray-300 rounded-md overflow-hidden shadow-2xl drop-shadow-2xl z-50 transition-transform duration-300
-        md:mr-[5rem] lg:mr-[10rem] xl:mr-[20rem] 2xl:mr-[30rem] 3xl:mr-[40rem]"
+        md:mr-[5rem] lg:mr-[8rem] xl:mr-[10rem] 2xl:mr-[30rem] 3xl:mr-[40rem]"
     >
     <!-- Video preview section -->
         <div class="relative bg-yellow-400" v-if="shouldShowPreview">
